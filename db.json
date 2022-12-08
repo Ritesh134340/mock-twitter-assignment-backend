@@ -1,9 +1,21 @@
 {
-   "users":[
+  "user": [
     {
-        "id":1,
-        "name":"mohan"
-
-    }
-   ] 
+      "id": 1,
+      "username": "mohan1",
+      "fullname":"mohan kumar",
+      "email":"mohan@gmail.com",
+      "password":"mohan@123",
+      "image":"https://i.pravatar.cc/300"
+    },
+    {
+        "id": 2,
+        "username": "ganesh1",
+        "fullname":"ganesh kumar",
+        "email":"ganesh@gmail.com",
+        "password":"ganesh@123",
+        "image":"https://i.pravatar.cc/300"
+      }
+  ],
+  "posts":[]
 }
